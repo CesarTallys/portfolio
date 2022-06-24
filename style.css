@@ -114,9 +114,11 @@ footer i{
 }
 footer button{
 	margin: 0px 0 10px 0;
-	width: 250px;
-	border-radius: 30px;
+	width: 200px;
+	border-radius: 25px;
 	font-size: 1.3em;
+	border: #6E0071;
+	color: #6E0071;
 }
 
 @media screen and (max-width: 600px) {
